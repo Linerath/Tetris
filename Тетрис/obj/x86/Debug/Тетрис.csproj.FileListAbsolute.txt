@@ -1,0 +1,79 @@
+D:\C# Visual Studio\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+D:\C# Visual Studio\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FTetris.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Properties.Resources.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.GenerateResource.Cache
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.exe
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.pdb
+D:\C# Visual Studio\Тетрис\Тетрис\bin\Debug\Interop.WMPLib.dll
+D:\C# Visual Studio\Тетрис\Тетрис\bin\Debug\AxInterop.WMPLib.dll
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Interop.WMPLib.dll
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.ResolveComReference.cache
+K:\Тетрис\Тетрис\obj\x86\Debug\Interop.WMPLib.dll
+K:\Тетрис\Тетрис\obj\x86\Debug\AxInterop.WMPLib.dll
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.ResolveComReference.cache
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.exe
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.pdb
+K:\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+K:\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+K:\Тетрис\Тетрис\bin\Debug\Interop.WMPLib.dll
+K:\Тетрис\Тетрис\bin\Debug\AxInterop.WMPLib.dll
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FTetris.resources
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Properties.Resources.resources
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.GenerateResource.Cache
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FConfirm.resources
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FFiguresColors.resources
+K:\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FRecords.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FConfirm.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FRecords.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FNickEnter.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Interop.WMPLib.dll
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.ResolveComReference.cache
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.exe
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.pdb
+D:\Makaveli\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+D:\Makaveli\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+D:\Makaveli\Тетрис\Тетрис\bin\Debug\Interop.WMPLib.dll
+D:\Makaveli\Тетрис\Тетрис\bin\Debug\AxInterop.WMPLib.dll
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FConfirm.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FNickEnter.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FFiguresColors.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FGameMode.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FGMForm.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FGMPassword.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FTetris.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Properties.Resources.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FRecords.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FStatistics.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.GenerateResource.Cache
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FHotKeys.resources
+D:\Makaveli\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FMultiplayerMode.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FiguresColorsForm.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.GameModeForm.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.HotKeysForm.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.SettingsForm.resources
+D:\C# Visual Studio\Тетрис\Тетрис\obj\x86\Debug\Тетрис.StatisticsForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+D:\C# Visual Studio 17\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+D:\C# Visual Studio 17\Тетрис\Тетрис\bin\Debug\Interop.WMPLib.dll
+D:\C# Visual Studio 17\Тетрис\Тетрис\bin\Debug\AxInterop.WMPLib.dll
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Interop.WMPLib.dll
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.ResolveComReference.cache
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FConfirm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FNickEnter.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FiguresColorsForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.GameModeForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.HotKeysForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FTetris.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Properties.Resources.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.FRecords.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.SettingsForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.StatisticsForm.resources
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.GenerateResource.Cache
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.exe
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.pdb
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csprojResolveAssemblyReference.cache
+D:\C# Visual Studio 17\Тетрис\Тетрис\obj\x86\Debug\Тетрис.csproj.CoreCompileInputs.cache

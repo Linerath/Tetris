@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A53D53B1-E095-4460-BF33-9183981D5642}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Тетрис</RootNamespace>
+    <AssemblyName>Тетрис</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>game.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Confirm.Designer.cs">
+      <DependentUpon>Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterNick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterNick.Designer.cs">
+      <DependentUpon>EnterNick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Figure.cs" />
+    <Compile Include="FiguresColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FiguresColors.Designer.cs">
+      <DependentUpon>FiguresColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameMode.Designer.cs">
+      <DependentUpon>GameMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HotKeys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HotKeys.Designer.cs">
+      <DependentUpon>HotKeys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matrix.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Records.Designer.cs">
+      <DependentUpon>Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticsForm.Designer.cs">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Confirm.resx">
+      <DependentUpon>Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterNick.resx">
+      <DependentUpon>EnterNick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FiguresColors.resx">
+      <DependentUpon>FiguresColors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameMode.resx">
+      <DependentUpon>GameMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HotKeys.resx">
+      <DependentUpon>HotKeys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Records.resx">
+      <DependentUpon>Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsForm.resx">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\backcolor.scf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_Clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_I.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_J.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fig_T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\вулкан.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\volcano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\background3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\statistics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\records.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\aqua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\newgame.png" />
+    <Content Include="game.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
